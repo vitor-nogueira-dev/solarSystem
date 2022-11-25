@@ -1,0 +1,33 @@
+.redesSociais {
+  background-color: rgba(255, 255, 255, 0.184);
+  display: flex;
+  padding: 10px;
+  text-align: center;
+  justify-content: space-around;
+}
+.section-redesSociais {
+  display: flex;
+  flex-direction: column;
+}
+.redesSociais > a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+.redesSociais a:hover {
+  color: black;
+  font-size: 20px;
+  -webkit-transform: scale(1.5);
+  transition: 0.3s;
+  opacity: 1;
+  transform: scale(1);
+}
+
+.contato {
+  background-color: rgba(255, 255, 255, 0.184);
+  text-align: center;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
