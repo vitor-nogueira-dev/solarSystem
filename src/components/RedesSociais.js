@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 class RedesSociais extends React.Component {
   render() {
     const { redesSociais } = this.props;
-    const { instagram, facebook, linkedin, email, gitHub } = redesSociais;
+    const { instagram, linkedin, email, gitHub } = redesSociais;
     return (
       <section className="section-redesSociais">
         <section className="redesSociais">
