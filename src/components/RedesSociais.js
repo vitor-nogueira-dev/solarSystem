@@ -12,10 +12,6 @@ class RedesSociais extends React.Component {
             Instagram
           </a>
 
-          <a href={ facebook } target="_blank" rel="noreferrer">
-            Facebook
-          </a>
-
           <a href={ linkedin } target="_blank" rel="noreferrer">
             Linkedin
           </a>
